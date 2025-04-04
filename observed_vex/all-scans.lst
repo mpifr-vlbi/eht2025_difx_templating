@@ -1,0 +1,162 @@
+094-0346 3C279        band6          AX  NN  PV  
+094-0353 SGRA         band6          AX  NN  PV  
+094-0418 3C279        band6          AX  NN  PV  AA  
+094-0425 SGRA         band6          AX  NN  PV  AA  
+094-0440 SGRA         band6          AX  NN  PV  AA  
+094-0502 3C279        band6          AX  --  PV  AA  
+094-0509 SGRA         band6          AX  NN  PV  AA  
+094-0532 J1751+0939   band6          AX  NN  PV  AA  
+094-0538 SGRA         band6          AX  NN  PV  AA  
+094-0601 J1924-2914   band6          AX  NN  PV  AA  
+094-0607 SGRA         band6          AX  NN  PV  AA  
+094-0631 J1751+0939   band6          AX  NN  PV  AA  
+094-0637 SGRA         band6          AX  NN  PV  AA  
+094-0700 J1924-2914   band6          AX  NN  PV  AA  
+094-0706 SGRA         band6          AX  NN  PV  AA  LM  
+094-0724 J1751+0939   band6          AX  NN  PV  AA  LM  
+094-0736 J1924-2914   band6          AX  NN  PV  AA  --  
+094-0742 SGRA         band6          AX  --  PV  AA  LM  
+094-0800 SGRA         band6          AX  --  PV  AA  LM  
+094-0818 J1751+0939   band6          AX  NN  PV  AA  LM  KT  
+094-0830 J1924-2914   band6          AX  --  PV  AA  --  --  
+094-0836 SGRA         band6          AX  --  --  AA  LM  KT  
+094-0854 SGRA         band6          AX  --  --  AA  LM  KT  
+094-0916 J1751+0939   band6          AX  --  PV  AA  LM  KT  MG  
+094-0923 SGRA         band6          AX  --  --  AA  LM  KT  MG  
+094-0947 J1924-2914   band6          AX  --  PV  AA  LM  --  --  
+094-0953 SGRA         band6          AX  --  --  AA  LM  KT  MG  
+094-1011 SGRA         band6          AX  --  --  AA  LM  KT  MG  
+094-1028 J1751+0939   band6          AX  --  --  AA  LM  KT  MG  
+094-1034 SGRA         band6          AX  --  --  AA  LM  KT  --  
+094-1058 J1924-2914   band6          AX  --  --  AA  LM  KT  MG  
+094-1104 SGRA         band6          AX  --  --  AA  LM  KT  MG  MM  
+094-1123 SGRA         band6          AX  --  --  AA  LM  KT  MG  MM  SW  
+094-1139 J1751+0939   band6          AX  --  --  AA  LM  KT  MG  MM  SW  
+094-1145 SGRA         band6          AX  --  --  AA  LM  KT  MG  MM  SW  
+094-1209 J1924-2914   band6          AX  --  --  AA  LM  KT  MG  --  --  
+094-1215 SGRA         band6          AX  --  --  AA  LM  KT  MG  MM  SW  
+094-1233 SGRA         band6          AX  --  --  AA  LM  KT  MG  MM  SW  
+094-1250 J1751+0939   band6          AX  --  --  AA  LM  KT  MG  MM  SW  
+094-1256 SGRA         band6          AX  --  --  AA  LM  KT  MG  MM  SW  
+094-1320 J1924-2914   band6          AX  --  --  AA  LM  KT  MG  MM  SW  
+094-1326 SGRA         band6          AX  --  --  AA  LM  KT  MG  MM  SW  
+094-1344 SGRA         band6          AX  --  --  AA  LM  KT  MG  MM  SW  
+094-1401 J1924-2914   band6          AX  --  --  AA  LM  KT  MG  MM  SW  
+094-1407 SGRA         band6          AX  --  --  AA  LM  KT  MG  MM  SW  
+094-1425 SGRA         band6          AX  --  --  AA  LM  KT  MG  MM  SW  
+094-1449 J1924-2914   band6          AX  --  --  --  LM  KT  MG  MM  SW  
+094-1455 SGRA         band6          AX  --  --  --  LM  KT  MG  MM  SW  
+094-1513 SGRA         band6          AX  --  --  --  LM  KT  MG  MM  SW  
+094-1531 J1924-2914   band6          AX  --  --  --  LM  KT  MG  MM  SW  
+094-1537 SGRA         band6          AX  --  --  --  LM  KT  MG  MM  SW  
+094-1554 J0423-0120   band6          AX  NN  PV  AA  --  --  --  --  --  
+094-1602 3C120        band6          AX  NN  PV  AA  --  --  --  --  --  GL  
+094-1610 3C120        band6          AX  NN  PV  AA  --  --  --  --  --  GL  
+094-1623 J0423-0120   band6          AX  NN  PV  AA  --  --  --  --  --  --  
+094-1629 3C120        band6          AX  NN  PV  AA  --  --  --  --  --  GL  
+094-1637 J0334-4008   band6          --  --  --  AA  --  --  --  --  --  --  
+094-1638 J0510+1800   band6          AX  NN  PV  --  --  --  --  --  --  GL  
+094-1553 J1924-2914   band6          --  --  --  --  LM  KT  MG  MM  SW  --  
+094-1603 SGRA         band6          --  --  --  --  --  KT  --  MM  SW  --  
+094-1622 J1924-2914   band6          --  --  --  --  --  KT  MG  MM  SW  --  
+094-1632 J1751+0939   band6          --  --  --  --  --  KT  MG  MM  SW  --  
+094-1641 J1924-2914   band6          --  --  --  --  --  KT  MG  MM  SW  --  
+094-1648 J0423-0120   band6          AX  NN  PV  AA  LM  --  --  --  --  GL  
+094-1656 3C120        band6          AX  NN  PV  AA  LM  --  --  --  --  GL  
+094-1704 3C120        band6          AX  NN  PV  AA  LM  --  --  --  --  GL  
+094-1717 J0423-0120   band6          AX  NN  PV  AA  LM  --  --  --  --  GL  
+094-1723 3C120        band6          AX  NN  PV  AA  LM  --  --  --  --  GL  
+094-1732 J0510+1800   band6          AX  NN  PV  AA  LM  --  --  --  --  GL  
+094-1738 J0334-4008   band6          --  --  --  AA  --  --  --  --  --  --  
+094-1739 3C84         band6          AX  NN  PV  --  LM  KT  --  --  --  GL  
+094-1655 J1751+0939   band6          --  --  --  --  --  --  MG  MM  SW  --  KY  PC  
+094-1706 SGRA         band6          --  --  --  --  --  --  --  MM  SW  --  KY  PC  
+094-1721 J1751+0939   band6          --  --  --  --  --  --  --  MM  SW  --  KY  PC  
+094-1731 SGRA         band6          --  --  --  --  --  --  --  MM  SW  --  KY  PC  
+094-1750 J0423-0120   band6          AX  NN  PV  AA  LM  KT  --  --  --  GL  --  --  
+094-1758 3C120        band6          AX  NN  PV  AA  LM  KT  --  --  --  GL  --  --  
+094-1806 3C120        band6          AX  NN  PV  AA  LM  KT  --  --  --  GL  --  --  
+094-1819 J0423-0120   band6          AX  NN  PV  AA  LM  KT  --  --  --  GL  --  --  
+094-1825 3C120        band6          AX  NN  PV  AA  LM  KT  --  --  --  GL  --  --  
+094-1834 J0510+1800   band6          AX  NN  PV  AA  LM  KT  --  --  --  GL  --  --  
+094-1840 J0334-4008   band6          --  --  --  AA  --  --  --  --  --  --  --  --  
+094-1841 3C84         band6          AX  NN  PV  --  LM  KT  MG  --  --  GL  --  --  
+094-1749 J1751+0939   band6          --  --  --  --  --  --  --  MM  SW  --  KY  PC  
+094-1759 SGRA         band6          --  --  --  --  --  --  --  MM  SW  --  KY  PC  
+094-1818 J1751+0939   band6          --  --  --  --  --  --  --  MM  SW  --  KY  PC  
+094-1828 SGRA         band6          --  --  --  --  --  --  --  MM  SW  --  KY  PC  
+094-1852 J0423-0120   band6          AX  NN  PV  AA  LM  KT  --  --  --  GL  --  --  
+094-1900 3C120        band6          AX  NN  PV  AA  LM  KT  --  --  --  GL  --  --  
+094-1908 3C120        band6          AX  NN  PV  AA  LM  KT  --  --  --  GL  --  --  
+094-1921 J0423-0120   band6          AX  NN  PV  AA  LM  KT  MG  --  --  GL  --  --  
+094-1927 3C120        band6          AX  NN  PV  AA  LM  KT  MG  --  --  GL  --  --  
+094-1936 J0510+1800   band6          AX  NN  PV  AA  LM  KT  MG  --  --  GL  --  --  
+094-1942 J0334-4008   band6          --  --  --  AA  --  --  --  --  --  --  --  --  
+094-1943 3C84         band6          AX  NN  PV  --  LM  KT  MG  --  --  GL  --  --  
+094-1851 J1751+0939   band6          --  --  --  --  --  --  --  MM  SW  --  KY  PC  
+094-1901 SGRA         band6          --  --  --  --  --  --  --  MM  SW  --  KY  PC  
+094-1915 J1751+0939   band6          --  --  --  --  --  --  --  MM  SW  --  KY  PC  
+094-1925 J1924-2914   band6          --  --  --  --  --  --  --  MM  SW  --  KY  PC  
+094-1935 J1924-2914   band6          --  --  --  --  --  --  --  MM  SW  --  KY  PC  
+094-1954 J0423-0120   band6          AX  NN  PV  AA  LM  KT  MG  --  --  GL  --  --  
+094-2002 3C120        band6          AX  NN  PV  AA  LM  KT  MG  --  --  GL  --  --  
+094-2010 3C120        band6          AX  NN  PV  AA  LM  KT  MG  --  --  GL  --  --  
+094-2023 J0423-0120   band6          AX  --  PV  AA  LM  KT  MG  --  --  GL  --  --  
+094-2029 3C120        band6          AX  NN  PV  AA  LM  KT  MG  --  --  GL  --  --  
+094-2038 J0510+1800   band6          AX  NN  PV  AA  LM  KT  MG  --  --  GL  --  --  
+094-2044 J0334-4008   band6          --  --  --  AA  --  --  --  --  --  --  --  --  
+094-2045 3C84         band6          AX  NN  PV  --  LM  KT  MG  MM  SW  GL  --  --  
+094-2056 J0423-0120   band6          AX  --  --  AA  LM  KT  MG  MM  --  GL  --  --  
+094-2104 3C120        band6          AX  --  PV  AA  LM  KT  MG  MM  SW  GL  --  --  
+094-2112 3C120        band6          AX  --  PV  AA  LM  KT  MG  MM  SW  GL  --  --  
+094-2125 J0423-0120   band6          AX  --  --  AA  LM  KT  MG  MM  SW  GL  --  --  
+094-2131 3C120        band6          AX  --  --  AA  LM  KT  MG  MM  SW  GL  --  --  
+094-2140 J0510+1800   band6          AX  --  --  AA  LM  KT  MG  MM  SW  GL  --  --  
+094-2146 J0334-4008   band6          --  --  --  AA  --  --  --  --  --  --  --  --  
+094-2147 3C84         band6          AX  --  --  --  LM  KT  MG  MM  SW  GL  --  --  
+094-2158 J0423-0120   band6          AX  --  --  AA  LM  KT  MG  MM  SW  GL  --  --  
+094-2206 3C120        band6          AX  --  --  AA  LM  KT  MG  MM  SW  GL  --  --  
+094-2214 3C120        band6          AX  --  --  AA  LM  KT  MG  MM  SW  GL  --  --  
+094-2227 J0423-0120   band6          AX  --  --  AA  LM  KT  MG  MM  SW  GL  --  --  
+094-2233 3C120        band6          AX  --  --  AA  LM  KT  MG  MM  SW  GL  --  --  
+094-2242 J0510+1800   band6          AX  --  --  AA  --  KT  MG  MM  SW  GL  --  --  
+094-2248 J0334-4008   band6          --  --  --  AA  --  --  --  --  --  --  --  --  
+094-2249 3C84         band6          AX  --  --  --  LM  KT  MG  MM  SW  GL  --  --  
+094-2300 J0423-0120   band6          AX  --  --  AA  LM  KT  MG  MM  SW  GL  --  --  
+094-2308 3C120        band6          AX  --  --  AA  LM  KT  MG  MM  SW  GL  --  --  
+094-2316 3C120        band6          AX  --  --  AA  LM  KT  MG  MM  SW  GL  --  --  
+094-2329 J0423-0120   band6          AX  --  --  AA  LM  KT  MG  MM  SW  GL  --  --  
+094-2335 3C120        band6          AX  --  --  AA  LM  KT  MG  MM  SW  GL  --  --  
+094-2344 J0510+1800   band6          AX  --  --  AA  LM  KT  MG  MM  SW  GL  --  --  
+094-2350 J0334-4008   band6          --  --  --  AA  --  --  --  --  --  --  --  --  
+094-2351 3C84         band6          --  --  --  --  LM  KT  MG  MM  SW  --  --  --  
+095-0002 J0423-0120   band6          AX  --  --  AA  LM  KT  MG  MM  SW  GL  --  --  
+095-0010 3C120        band6          AX  --  --  AA  LM  KT  MG  MM  SW  GL  --  --  
+095-0018 3C120        band6          AX  --  --  AA  LM  KT  MG  MM  SW  GL  --  --  
+095-0029 J0334-4008   band6          --  --  --  AA  --  --  --  --  --  --  --  --  
+095-0030 3C84         band6          --  --  --  --  LM  KT  MG  MM  SW  --  --  --  
+095-0040 J0423-0120   band6          AX  --  --  --  LM  KT  MG  MM  SW  --  --  --  
+095-0048 3C120        band6          AX  --  --  --  LM  KT  MG  MM  SW  GL  --  --  
+095-0058 3C120        band6          AX  --  --  --  LM  KT  MG  MM  SW  GL  --  --  
+095-0108 J0510+1800   band6          AX  --  --  --  LM  KT  MG  MM  SW  GL  --  --  
+095-0116 3C84         band6          --  --  --  --  LM  KT  MG  MM  SW  GL  KY  PC  
+095-0127 J0510+1800   band6          --  --  --  --  LM  KT  MG  MM  SW  GL  KY  PC  
+095-0135 3C120        band6          --  --  --  --  LM  KT  MG  MM  SW  GL  KY  PC  
+095-0145 3C120        band6          --  --  --  --  LM  KT  MG  MM  SW  GL  KY  PC  
+095-0155 J0423-0120   band6          --  --  --  --  LM  KT  MG  MM  SW  --  KY  PC  
+095-0203 3C84         band6          --  --  --  --  LM  KT  MG  MM  SW  GL  KY  PC  
+095-0214 J0423-0120   band6          --  --  --  --  LM  KT  MG  MM  SW  --  KY  PC  
+095-0222 3C120        band6          --  --  --  --  LM  KT  MG  MM  SW  --  KY  PC  
+095-0232 3C120        band6          --  --  --  --  LM  KT  MG  MM  SW  --  KY  PC  
+095-0242 3C84         band6          --  --  --  --  LM  KT  MG  MM  SW  --  KY  PC  
+095-0253 J0423-0120   band6          --  --  --  --  LM  KT  MG  MM  SW  --  KY  PC  
+095-0301 3C120        band6          --  --  --  --  LM  KT  MG  MM  SW  --  KY  PC  
+095-0311 3C120        band6          --  --  --  --  LM  KT  MG  MM  SW  --  KY  PC  
+095-0321 J0510+1800   band6          --  --  --  --  LM  KT  MG  MM  SW  --  KY  PC  
+095-0329 3C84         band6          --  --  --  --  --  KT  MG  MM  SW  --  KY  PC  
+095-0340 J0423-0120   band6          --  --  --  --  --  KT  --  MM  SW  --  KY  PC  
+095-0348 3C120        band6          --  --  --  --  --  KT  --  MM  SW  --  KY  PC  
+095-0358 3C120        band6          --  --  --  --  --  KT  --  MM  SW  --  KY  PC  
+095-0408 J0510+1800   band6          --  --  --  --  --  KT  --  MM  SW  --  KY  PC  
+095-0416 3C120        band6          --  --  --  --  --  KT  --  MM  SW  --  KY  PC  
+095-0426 3C84         band6          --  --  --  --  --  KT  --  MM  SW  --  KY  PC  

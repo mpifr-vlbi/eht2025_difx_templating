@@ -1,0 +1,102 @@
+$SOURCE;
+*
+def SGRA;
+     source_name = SGRA;
+*    this source had calibrator code:  
+     ra = 17h45m40.0315970s; dec = -29d00'28.272040"; ref_coord_frame = J2000;
+*    ra = 17h42m29.3005607s; dec = -28d59'18.686685"; ref_coord_frame = B1950;
+*    ra = 17h47m16.8471001s; dec = -29d01'05.803241"; ref_coord_frame = Date;
+enddef;
+*
+def 3C84;
+     source_name = 3C84;
+*    this source had calibrator code: V
+*    alternate source name: J0319+4130
+*    alternate source name: 0316+413
+*    alternate source name: J031948.1+41
+*    ICRF3 X/S astro solution,   9222 observations.
+     ra = 03h19m48.1601120s; dec =  41d30'42.103636"; ref_coord_frame = J2000;
+*    ra = 03h16m29.5672818s; dec =  41d19'51.916510"; ref_coord_frame = B1950;
+*    ra = 03h21m27.1080164s; dec =  41d36'15.164914"; ref_coord_frame = Date;
+enddef;
+*
+def J0334-4008;
+     source_name = J0334-4008;
+*    this source had calibrator code: V
+*    alternate source name: 0332-403
+*    alternate source name: J033413.6-40
+*    ICRF3 X/S astro solution,  48299 observations.
+     ra = 03h34m13.6544882s; dec = -40d08'25.397993"; ref_coord_frame = J2000;
+*    ra = 03h32m25.2315923s; dec = -40d18'24.050771"; ref_coord_frame = B1950;
+*    ra = 03h35m07.4834760s; dec = -40d03'31.476679"; ref_coord_frame = Date;
+enddef;
+*
+def J0423-0120;
+     source_name = J0423-0120;
+*    this source had calibrator code: V
+*    alternate source name: 0420-014
+*    alternate source name: J042315.8-01
+*    ICRF3 X/S astro solution,  79013 observations.
+     ra = 04h23m15.8007222s; dec = -01d20'33.065607"; ref_coord_frame = J2000;
+*    ra = 04h20m43.5398453s; dec = -01d27'28.700312"; ref_coord_frame = B1950;
+*    ra = 04h24m32.0085200s; dec = -01d17'06.507023"; ref_coord_frame = Date;
+enddef;
+*
+def 3C120;
+     source_name = 3C120;
+*    this source had calibrator code: V
+*    alternate source name: J0433+0521
+*    alternate source name: 0430+052
+*    alternate source name: J043311.0+05
+*    ICRF3 X/S astro solution,   9151 observations.
+     ra = 04h33m11.0955307s; dec =  05d21'15.619266"; ref_coord_frame = J2000;
+*    ra = 04h30m31.6020619s; dec =  05d14'59.616481"; ref_coord_frame = B1950;
+*    ra = 04h34m30.9808577s; dec =  05d24'23.864307"; ref_coord_frame = Date;
+enddef;
+*
+def J0510+1800;
+     source_name = J0510+1800;
+*    this source had calibrator code: V
+*    alternate source name: 0507+179
+*    alternate source name: J051002.3+18
+*    ICRF3 X/S astro solution,   2579 observations.
+     ra = 05h10m02.3691294s; dec =  18d00'41.581564"; ref_coord_frame = J2000;
+*    ra = 05h07m07.4865430s; dec =  17d56'58.646112"; ref_coord_frame = B1950;
+*    ra = 05h11m30.1560491s; dec =  18d02'36.442936"; ref_coord_frame = Date;
+enddef;
+*
+def 3C279;
+     source_name = 3C279;
+*    this source had calibrator code: V
+*    alternate source name: J1256-0547
+*    alternate source name: 1253-055
+*    alternate source name: J125611.1-05
+*    ICRF3 X/S astro solution,  13257 observations.
+     ra = 12h56m11.1665796s; dec = -05d47'21.525151"; ref_coord_frame = J2000;
+*    ra = 12h53m35.8313120s; dec = -05d31'07.996291"; ref_coord_frame = B1950;
+*    ra = 12h57m30.9186133s; dec = -05d55'42.658737"; ref_coord_frame = Date;
+enddef;
+*
+def J1751+0939;
+     source_name = J1751+0939;
+*    this source had calibrator code: V
+*    alternate source name: 1749+096
+*    alternate source name: J175132.8+09
+*    alternate source name: OT081
+*    ICRF3 X/S astro solution, 205810 observations.
+     ra = 17h51m32.8185733s; dec =  09d39'00.728407"; ref_coord_frame = J2000;
+*    ra = 17h49m10.3879302s; dec =  09d39'42.825854"; ref_coord_frame = B1950;
+*    ra = 17h52m45.1522273s; dec =  09d38'23.081937"; ref_coord_frame = Date;
+enddef;
+*
+def J1924-2914;
+     source_name = J1924-2914;
+*    this source had calibrator code: V
+*    alternate source name: 1921-293
+*    alternate source name: J192451.0-29
+*    ICRF3 X/S astro solution,  67286 observations.
+     ra = 19h24m51.0559525s; dec = -29d14'30.121025"; ref_coord_frame = J2000;
+*    ra = 19h21m42.2341256s; dec = -29d20'26.353927"; ref_coord_frame = B1950;
+*    ra = 19h26m26.2916701s; dec = -29d11'31.814397"; ref_coord_frame = Date;
+enddef;
+*------------------------------------------------------------------------------

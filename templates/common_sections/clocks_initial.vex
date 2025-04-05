@@ -1,46 +1,46 @@
 $CLOCK;
 *
 def Aa;
-  clock_early = 2024y094d22h00m00s: 2107.147 usec : 2024y094d22h00m00s : -10e-15;
+  clock_early = 2025y094d03h00m00s: 2107.147 usec : 2025y094d03h00m00s : -10e-15;
 enddef;
 *
 def Ax;
-  clock_early = 2024y094d22h00m00s: 0.0 usec: 2024y094d22h00m00s : +0.460e-12; * todo
+  clock_early = 2025y094d03h00m00s: 0.0 usec: 2025y094d03h00m00s : +0.460e-12; * todo
 enddef;
 *
 def Gl;
-  clock_early = 2024y094d22h00m00s: 0.0 usec: 2024y094d22h00m00s : -0.107e-12;
+  clock_early = 2025y094d03h00m00s: 0.0 usec: 2025y094d03h00m00s : -0.107e-12;
 enddef;
 *
 def Kt;
-  clock_early = 2024y094d22h00m00s: 0.0 usec: 2024y094d22h00m00s : +0.679e-12;
+  clock_early = 2025y094d03h00m00s: 0.0 usec: 2025y094d03h00m00s : +0.679e-12;
 enddef;
 *
 def Ky;
-  clock_early = 2024y094d22h00m00s: 0.0 usec: 2024y094d22h00m00s : +0.0e-12; * todo
+  clock_early = 2025y094d03h00m00s: 0.0 usec: 2025y094d03h00m00s : +0.0e-12; * todo
 enddef;
 *
 def Lm;
-  clock_early = 2024y094d22h00m00s: 0.0 usec: 2024y094d22h00m00s : +0.641e-12;
+  clock_early = 2025y094d03h00m00s: 0.0 usec: 2025y094d03h00m00s : +0.641e-12;
 enddef;
 *
 def Mm; * JCMT
-  clock_early = 2024y094d22h00m00s: 0.0 usec: 2024y094d22h00m00s : -0.208e-12;
+  clock_early = 2025y094d03h00m00s: 0.0 usec: 2025y094d03h00m00s : -0.208e-12;
 enddef;
 *
 def Mg; * SMT
-  clock_early = 2024y094d22h00m00s: 0.0 usec: 2024y094d22h00m00s : -1.735e-12;
+  clock_early = 2025y094d03h00m00s: 0.0 usec: 2025y094d03h00m00s : -1.735e-12;
 enddef;
 *
 def Nn; * NOEMA
-  clock_early = 2024y094d22h00m00s: 0.0 usec: 2024y094d22h00m00s : +0.0028e-12; * todo
+  clock_early = 2025y094d03h00m00s: 0.0 usec: 2025y094d03h00m00s : +0.0028e-12; * todo
 enddef;
 *
 def Pv;
-  clock_early = 2024y094d22h00m00s: 0.0 usec: 2024y094d22h00m00s : -0.105e-12; * todo
+  clock_early = 2025y094d03h00m00s: 0.0 usec: 2025y094d03h00m00s : -0.105e-12; * todo
 enddef;
 *
 def Sz;
-  clock_early = 2024y094d22h00m00s: 0.0 usec: 2024y094d22h00m00s : -0.498e-12;
+  clock_early = 2025y094d03h00m00s: 0.0 usec: 2025y094d03h00m00s : -0.498e-12;
 enddef;
 *

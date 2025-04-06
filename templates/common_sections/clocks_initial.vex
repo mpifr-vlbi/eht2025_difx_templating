@@ -25,7 +25,7 @@ def Lm;
 enddef;
 *
 def Mm; * JCMT
-  clock_early = 2025y094d03h00m00s: 0.0 usec: 2025y094d03h00m00s : -0.208e-12;
+  clock_early = 2025y094d03h00m00s: 0.0 usec: 2025y094d03h00m00s : +4.236e-12; * e25c04
 enddef;
 *
 def Mg; * SMT

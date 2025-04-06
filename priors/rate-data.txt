@@ -23,3 +23,8 @@ via script ./scripts/vlbimonitordb/report_clock_model.py
   $ report_clock_model.py --start-time=2024y093d01h01m01s --stop-time 2024y102d01h01m01s --band 1 --sites LMT
   LMT band 1: rate = +0.641 +/- 0.002 ps/s, offset = +0.265 ns @ 2024y098d08h36m47s [5300 pts]
 
+--
+
+  ../scripts/vlbimonitordb/report_clock_model_2025.py  --start-time=2025y094d12h01m01s --stop-time 2025y096d01h01m01s --sites JCMT
+  band 3: rate = +4.236 +/- 0.012 ps/s, offset = +524.956 ns @ 2025y094d12h01m04s [1973 pts]
+

@@ -4,6 +4,6 @@ def NOEMA;
      site_type = fixed;
      site_velocity =  0.0 m/yr : 0.0 m/yr : 0.0 m/yr;
      site_position_epoch = 0;
-     ** TODO!
+     ** TODO! just 1 antenna, which pad?
      site_position = 4523999.4416 m: 468067.5300 m: 4460310.069 m;
 enddef;

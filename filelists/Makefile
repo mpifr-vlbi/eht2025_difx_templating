@@ -15,119 +15,123 @@ bonn: aa_b1 aa_b4 ax_b1 ax_b4 gl_b1 gl_b4 mm_b1 mm_b4 mg_b1 mg_b4 \
 
 hays: pv_b2 pv_b3
 
-## ALMA
+## ALMA - infos by email
 
 aa_b1:
-	$(call mk6dir2filelist,mark6-10,12,ALMA%009,ALMA_b1.12.filelist)
-	$(call mk6dir2filelist,mark6-10,34,ALMA%011,ALMA_b1.34.filelist)
+	$(call mk6dir2filelist,mark6-10,12,EHT%1231,ALMA_b1.12.filelist)
+	$(call mk6dir2filelist,mark6-10,34,EHT%1233,ALMA_b1.34.filelist)
 
 aa_b4:
-	$(call mk6dir2filelist,mark6-10,12,ALMA%021,ALMA_b4.12.filelist)
-	$(call mk6dir2filelist,mark6-10,34,ALMA%023,ALMA_b4.34.filelist)
+	$(call mk6dir2filelist,mark6-10,12,EHT%1250,ALMA_b4.12.filelist)
+	$(call mk6dir2filelist,mark6-10,34,MPI%1205,ALMA_b4.34.filelist)
 
-## APEX
+## APEX - https://eventhorizontelescope.mywikis.wiki/wiki/APEX_setup_2025
 
 ax_b1:
-	$(call mk6dir2filelist,mark6-09,12,MPI%8042,APEX_b1.12.filelist)
-	$(call mk6dir2filelist,mark6-09,34,MPI%8044,APEX_b1.34.filelist)
+	$(call mk6dir2filelist,mark6-09,12,EHT%0078,APEX_b1.12.filelist)
+	$(call mk6dir2filelist,mark6-09,34,EHT%0080,APEX_b1.34.filelist)
 
 ax_b4:
-	$(call mk6dir2filelist,mark6-10,12,ALMA%041,APEX_b4.12.filelist)
-	$(call mk6dir2filelist,mark6-10,34,ALMA%043,APEX_b4.34.filelist)
+	$(call mk6dir2filelist,mark6-10,12,BHC%0106,APEX_b4.12.filelist)
+	$(call mk6dir2filelist,mark6-10,34,BHC%0109,APEX_b4.34.filelist)
 
-## GLT
+## GLT - https://eventhorizontelescope.mywikis.wiki/wiki/GLT_(Gl)_setup_2025
 
 gl_b1:
-	$(call mk6dir2filelist,mark6-06,12,BHC%0042,GLT_b1.12.filelist)
-	$(call mk6dir2filelist,mark6-06,34,BHC%0049,GLT_b1.34.filelist)
+	$(call mk6dir2filelist,mark6-06,12,EHT%1101,GLT_b1.12.filelist)
+	$(call mk6dir2filelist,mark6-06,34,EHT%1201,GLT_b1.34.filelist)
 
 gl_b4:
-	$(call mk6dir2filelist,mark6-06,12,BHC%0170,GLT_b4.12.filelist)
-	$(call mk6dir2filelist,mark6-06,34,BHC%0176,GLT_b4.34.filelist)
+	$(call mk6dir2filelist,mark6-06,12,EHT%1223,GLT_b4.12.filelist)
+	$(call mk6dir2filelist,mark6-06,34,EHT%1225,GLT_b4.34.filelist)
 
-## JCMT
+## JCMT - https://eventhorizontelescope.mywikis.wiki/wiki/JCMT_setup_2025
 
 mm_b1:
-	$(call mk6dir2filelist,mark6-11,12,BHC%0063,JCMT_b1.12.filelist)
-	$(call mk6dir2filelist,mark6-11,34,MPI%6406,JCMT_b1.34.filelist)
+	$(call mk6dir2filelist,mark6-11,12,EHT%0084,JCMT_b1.12.filelist)
+	$(call mk6dir2filelist,mark6-11,34,EHT%0086,JCMT_b1.34.filelist)
 
 mm_b4:
-	$(call mk6dir2filelist,mark6-08,12,MPI%6405,JCMT_b4.12.filelist)
-	$(call mk6dir2filelist,mark6-08,34,BHC%0168,JCMT_b4.34.filelist)
+	$(call mk6dir2filelist,mark6-08,12,BHC%0077,JCMT_b4.12.filelist)
+	$(call mk6dir2filelist,mark6-08,34,SHAO%008,JCMT_b4.34.filelist)
 
-## Kitt Peak
+## Kitt Peak - https://eventhorizontelescope.mywikis.wiki/wiki/KP_setup_2025
 
 kt_b1:
-	$(call mk6dir2filelist,mark6-02,12,ALMA%045,KT_b1.12.filelist)
-	$(call mk6dir2filelist,mark6-02,34,ALMA%047,KT_b1.34.filelist)
+	$(call mk6dir2filelist,mark6-02,12,EHT%1235,KT_b1.12.filelist)
+	$(call mk6dir2filelist,mark6-02,34,EHT%1237,KT_b1.34.filelist)
 
 kt_b4:
-	$(call mk6dir2filelist,mark6-02,12,SAO%0032,KT_b4.12.filelist)
-	$(call mk6dir2filelist,mark6-02,34,SAO%0034,KT_b4.34.filelist)
+	$(call mk6dir2filelist,mark6-02,12,EHT%1256,KT_b4.12.filelist)
+	$(call mk6dir2filelist,mark6-02,34,EHT%1258,KT_b4.34.filelist)
 
-## LMT
+## LMT - https://eventhorizontelescope.mywikis.wiki/wiki/LMT_2025_Apr_setup
 
 lm_b1:
-	$(call mk6dir2filelist,mark6-07,12,SHAO%036,LMT_b4.12.filelist)
-	$(call mk6dir2filelist,mark6-07,34,SHAO%039,LMT_b4.34.filelist)
+	$(call mk6dir2filelist,mark6-07,12,BHC%0001,LMT_b4.12.filelist)
+	$(call mk6dir2filelist,mark6-07,34,BHC%0003,LMT_b4.34.filelist)
 
 lm_b4:
-	$(call mk6dir2filelist,mark6-07,12,SHAO%002,LMT_b1.12.filelist)
-	$(call mk6dir2filelist,mark6-07,34,SHAO%004,LMT_b1.34.filelist)
+	$(call mk6dir2filelist,mark6-07,12,BHC%0157,LMT_b1.12.filelist)
+	$(call mk6dir2filelist,mark6-07,34,BHC%0159,LMT_b1.34.filelist)
 
-## NOEMA
+## NOEMA - https://eventhorizontelescope.mywikis.wiki/wiki/NOEMA_setup_2025
 	
 nn_b1:
-	$(call mk6dir2filelist,mark6-09,1,IRAM%009,NOEMA_b1.1.filelist)
-	$(call mk6dir2filelist,mark6-09,2,IRAM%010,NOEMA_b1.2.filelist)
-	$(call mk6dir2filelist,mark6-09,3,IRAM%011,NOEMA_b1.3.filelist)
-	$(call mk6dir2filelist,mark6-09,4,IRAM%012,NOEMA_b1.4.filelist)
+	$(call mk6dir2filelist,mark6-09,1,IRAM%005,NOEMA_b1.1.filelist)
+	$(call mk6dir2filelist,mark6-09,2,IRAM%006,NOEMA_b1.2.filelist)
+	$(call mk6dir2filelist,mark6-09,3,IRAM%007,NOEMA_b1.3.filelist)
+	$(call mk6dir2filelist,mark6-09,4,IRAM%008,NOEMA_b1.4.filelist)
 
 nn_b4:
-	$(call mk6dir2filelist,mark6-09,1,BHC%0164,NOEMA_b4.1.filelist)
-	$(call mk6dir2filelist,mark6-09,2,BHC%0165,NOEMA_b4.2.filelist)
-	$(call mk6dir2filelist,mark6-09,3,BHC%0166,NOEMA_b4.3.filelist)
-	$(call mk6dir2filelist,mark6-09,4,BHC%0167,NOEMA_b4.4.filelist)
+	$(call mk6dir2filelist,mark6-09,1,BHC%0144,NOEMA_b4.1.filelist)
+	$(call mk6dir2filelist,mark6-09,2,BHC%0145,NOEMA_b4.2.filelist)
+	$(call mk6dir2filelist,mark6-09,3,BHC%0146,NOEMA_b4.3.filelist)
+	$(call mk6dir2filelist,mark6-09,4,BHC%0147,NOEMA_b4.4.filelist)
 
-## Pico
+## Pico - https://eventhorizontelescope.mywikis.wiki/wiki/IRAM30m_setup_2025
 
 pv_b1:
-	$(call mk6dir2filelist,mark6-05,12,SAO%0017,Pico_b1.12.filelist)
-	$(call mk6dir2filelist,mark6-05,34,SAO%0020,Pico_b1.34.filelist)
+	$(call mk6dir2filelist,mark6-05,12,BHC%0078,Pico_b1.12.filelist)
+	$(call mk6dir2filelist,mark6-05,34,BHC%0082,Pico_b1.34.filelist)
 
 pv_b4:
-	$(call mk6dir2filelist,mark6-05,12,MPI%8013,Pico_b4.12.filelist)
-	$(call mk6dir2filelist,mark6-05,34,MPI%8016,Pico_b4.34.filelist)
+	$(call mk6dir2filelist,mark6-05,12,MPI%6400,Pico_b4.12.filelist)
+	$(call mk6dir2filelist,mark6-05,34,MPI%6422,Pico_b4.34.filelist)
 
-## SMA APHIDS - todo
+## SMA APHIDS - https://eventhorizontelescope.mywikis.wiki/wiki/SMA_setup_2025
 
-sw_b1: # todo, not shipped yet (as of 10/2024)
+sw_b1: # todo post-APHIDS MSNs
 	#$(call mk6dir2filelist,mark6-05,12,...,SMA_b1.12.filelist)
 	#$(call mk6dir2filelist,mark6-05,34,...,SMA_b1.34.filelist)
 
-sw_b4: # todo, not shipped yet (as of 10/2024)
+sw_b4: # todo post-APHIDS MSNs
 	#$(call mk6dir2filelist,mark6-05,12,...,SMA_b4.12.filelist)
 	#$(call mk6dir2filelist,mark6-05,34,...,SMA_b4.34.filelist)
 
-## SMT
+## SMT - https://eventhorizontelescope.mywikis.wiki/wiki/SMT_setup_2025
 
 mg_b1:
-	$(call mk6dir2filelist,mark6-04,12,SHAO%015,SMT_b1.12.filelist)
-	$(call mk6dir2filelist,mark6-04,34,SHAO%017,SMT_b1.34.filelist)
+	$(call mk6dir2filelist,mark6-04,12,EHT%1205,SMT_b1.12.filelist)
+	$(call mk6dir2filelist,mark6-04,34,EHT%1207,SMT_b1.34.filelist)
 
 mg_b4:
-	$(call mk6dir2filelist,mark6-04,12,SHAO%034,SMT_b4.12.filelist)
-	$(call mk6dir2filelist,mark6-04,34,SHAO%041,SMT_b4.34.filelist)
+	$(call mk6dir2filelist,mark6-04,12,EHT%1215,SMT_b4.12.filelist)
+	$(call mk6dir2filelist,mark6-04,34,EHT%1217,SMT_b4.34.filelist)
 
 ## SPT
 
-sz_b1: # todo, not shipped yet (as of 10/2024)
+sz_b1: # todo
 	#$(call mk6dir2filelist,mark6-04,12,ALMA%029,SPT_b1.12.filelist)
 	#$(call mk6dir2filelist,mark6-04,34,ALMA%031,SPT_b1.34.filelist)
 
-sz_b4: # todo, not shipped yet (as of 10/2024)
+sz_b4: # todo
 	#$(call mk6dir2filelist,mark6-04,12,MPI%8051,SPT_b4.34.filelist)
 	#$(call mk6dir2filelist,mark6-04,34,MPI%8053,SPT_b4.12.filelist)
+
+## KVN Yonsei
+
+# todo - just band3, and e-transferred to Haystack?
 
 
 ## CHECKING
@@ -141,19 +145,19 @@ buglist:
 ## COPY
 
 install:
-	for exptname in $(TRACKS_230G) $(TRACKS_260G) $(TRACKS_345G); do \
+	for exptname in $(TRACKS_230G) $(TRACKS_345G); do \
 		mkdir -p /Exps/$${exptname}/$(REV)/b1/ /Exps/$${exptname}/$(REV)/b1/ ; \
 		mkdir -p /Exps/$${exptname}/$(REV)/b4/ /Exps/$${exptname}/$(REV)/b4/ ; \
 	done
 	#
 	# Outputband correlation subdirs
-	for exptname in $(TRACKS_230G) $(TRACKS_260G) $(TRACKS_345G); do \
+	for exptname in $(TRACKS_230G) $(TRACKS_345G); do \
 		cp -a *_b1.* /Exps/$${exptname}/$(REV)/b1/ ;	\
 		cp -a *_b4.* /Exps/$${exptname}/$(REV)/b4/;		\
 	done
 	#
 	# Zoom correlation subdirs
-	for exptname in $(TRACKS_230G) $(TRACKS_260G) $(TRACKS_345G); do \
+	for exptname in $(TRACKS_230G) $(TRACKS_345G); do \
 		cp -a *_b1.* /Exps/$${exptname}/$(REV)/b1/ ;	\
 		cp -a *_b4.* /Exps/$${exptname}/$(REV)/b4/;		\
 	done

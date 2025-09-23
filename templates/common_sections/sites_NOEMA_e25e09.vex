@@ -1,0 +1,11 @@
+def NOEMA;
+     site_name = NOEMA;
+     site_ID = Nn;
+     site_type = fixed;
+     site_velocity =  0.0 m/yr : 0.0 m/yr : 0.0 m/yr;
+     site_position_epoch = 0;
+     * Note from AOC 2025:
+     *  "Noema power cuts (starting at scan 097-2306); they eventually returned with a single antenna (starting at scan 098-0056)"
+     site_position = 4523999.4416 m : 468067.5300 m : 4460310.0690 m; * e25e09 pad E003, 1 phased, 2025-04-08 00:40:12
+     * site_position = 4523959.3899 m : 468037.3577 m : 4460353.5681 m; * e25e09 pad N007, 10 phased, 2025-04-08 18:00:36
+enddef;

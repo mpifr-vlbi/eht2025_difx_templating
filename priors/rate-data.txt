@@ -38,6 +38,7 @@ Separate station data
 
   ALMA : ?
   APEX : -0.76e-12 s/s from https://eventhorizontelescope.mywikis.wiki/wiki/APEX_setup_2025
+  NOEMA : -0.015 ns/day = -0.015e-9 / (24*60*60) ~= -0.0001736e-12 s/s from https://eventhorizontelescope.mywikis.wiki/wiki/NOEMA_setup_2025
   Pico : ?
   SMA  : ?
   SPT  : ?

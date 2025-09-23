@@ -1,30 +1,44 @@
 === VLBIMon1 ===
 
-TODO -- do these for 2025
-
 From Radboud VLBIMon1 database https://vlbimon1.science.ru.nl/
 via script ./scripts/vlbimonitordb/report_clock_model.py
 
-  $ report_clock_model.py --start-time=2024y093d01h01m01s --stop-time 2024y101d12h01m01s --band 1 --sites KP
-  KP band 1: rate = +0.679 +/- 0.001 ps/s, offset = +593.906 ns @ 2024y093d01h01m48s [7543 pts]
+Note
+  GLT has clock reset mid of campaign
+  APEX has dly outliers at end of camp
+  JCMT has clk reset near start of campaign, after 3 Apr looks ok
 
-  $ report_clock_model.py --start-time=2024y093d01h01m01s --stop-time 2024y102d01h01m01s --band 1 --sites JCMT
-  JCMT band 1: rate = -0.208 +/- 0.001 ps/s, offset = -5.507 ns @ 2024y093d06h27m41s [12470 pts]
+Rates for whole-campaign data of most stations
 
-  $ report_clock_model.py --start-time=2024y093d01h01m01s --stop-time 2024y102d01h01m01s --band 1 --sites SMTO
-  SMT band 1: rate = -1.735 +/- 0.000 ps/s, offset = +22.180 ns @ 2024y093d01h01m47s [12942 pts]
+  $ ../scripts/vlbimonitordb/report_clock_model_2025.py  --start-time=2025y092d12h01m01s --stop-time 2025y100d01h01m01s
+  SPT
+    (no data for site)
+  PICO
+    (no data for site)
+  KP
+    band 3: rate = -0.052 +/- 0.000 ps/s, offset = -31.394 ns @ 2025y092d12h01m05s [10838 pts]
+  LMT
+    band 3: rate = +0.376 +/- 0.001 ps/s, offset = +19.689 ns @ 2025y092d12h01m30s [10829 pts]
+  SMTO
+    band 3: rate = -0.100 +/- 0.000 ps/s, offset = -15.121 ns @ 2025y092d12h01m38s [10290 pts]
 
-  $ report_clock_model.py --start-time=2024y093d01h01m01s --stop-time 2024y102d01h01m01s --band 1 --sites GLT
-  GLT band 1: rate = -0.107 +/- 0.000 ps/s, offset = -30.713 ns @ 2024y093d01h01m44s [12600 pts]
+Rates for stations with clock resets
 
-  $ report_clock_model.py --start-time=2024y093d01h01m01s --stop-time 2024y102d01h01m01s --band 1 --sites SPT
-  SPT band 1: rate = -0.498 +/- 0.000 ps/s, offset = -27.645 ns @ 2024y093d01h01m20s [13118 pts]
+$ ../scripts/vlbimonitordb/report_clock_model_2025.py  --start-time=2025y093d12h01m01s --stop-time 2025y100d01h01m01s --sites JCMT
+$ ../scripts/vlbimonitordb/report_clock_model_2025.py  --start-time=2025y096d18h01m01s --stop-time 2025y102d01h01m01s --sites GLT
 
-  $ report_clock_model.py --start-time=2024y093d01h01m01s --stop-time 2024y102d01h01m01s --band 1 --sites LMT
-  LMT band 1: rate = +0.641 +/- 0.002 ps/s, offset = +0.265 ns @ 2024y098d08h36m47s [5300 pts]
+  JCMT
+    band 3: rate = +4.076 +/- 0.001 ps/s, offset = +180.021 ns @ 2025y093d12h01m12s [9330 pts]
+  GLT
+    band 3: rate = -0.109 +/- 0.000 ps/s, offset = +6.174 ns @ 2025y096d18h01m36s [7611 pts]
 
---
 
-  ../scripts/vlbimonitordb/report_clock_model_2025.py  --start-time=2025y094d12h01m01s --stop-time 2025y096d01h01m01s --sites JCMT
-  band 3: rate = +4.236 +/- 0.012 ps/s, offset = +524.956 ns @ 2025y094d12h01m04s [1973 pts]
+
+Separate station data
+
+  ALMA : ?
+  APEX : -0.76e-12 s/s from https://eventhorizontelescope.mywikis.wiki/wiki/APEX_setup_2025
+  Pico : ?
+  SMA  : ?
+  SPT  : ?
 

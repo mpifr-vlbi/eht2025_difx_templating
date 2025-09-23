@@ -36,6 +36,8 @@ class ehtTrackList:
 		self.tracks['e25c04'] = ['exper_nominal_start=2025y094d03h46m00s;', 'exper_nominal_stop=2025y095d04h29m00s;']
 		self.tracks['e25a06'] = ['exper_nominal_start=2025y095d18h39m00s;', 'exper_nominal_stop=2025y096d12h51m00s;']
 		self.tracks['e25f08'] = ['exper_nominal_start=2025y097d22h37m00s;', 'exper_nominal_stop=2025y098d15h38m00s;']
+		#self.tracks['e25e09'] = ['exper_nominal_start=2025y098d18h27m00s;', 'exper_nominal_stop=2025y099d18h41m00s;']
+		self.tracks['e25e09'] = ['exper_nominal_start=2025y098d18h00m00s;', 'exper_nominal_stop=2025y099d18h41m00s;']
 		#
 		self.tracks['e24j25'] = ['exper_nominal_start=2024y025d00h20m00s;', 'exper_nominal_stop=2024y025d01h42m00s;']
 		self.tracks['e24b04'] = ['exper_nominal_start=2024y094d22h32m00s;', 'exper_nominal_stop=2024y095d16h15m00s;']
@@ -96,7 +98,7 @@ class ehtTrackList:
 		tracklist = []
 
 		if year==2025 or year<=0:
-			tracklist += ['e25j21', 'e25c04', 'e25a06', 'e25f08']
+			tracklist += ['e25j21', 'e25c04', 'e25a06', 'e25f08', 'e25e09']
 			tracklist += ['c251a', 'c251b', 'c251c', 'c251d', 'c251z']
 		if year==2024 or year<=0:
 			tracklist += ['e24j25', 'e24b04', 'e24e07', 'e24a08', 'e24c09', 'e24d10', 'e24g11']

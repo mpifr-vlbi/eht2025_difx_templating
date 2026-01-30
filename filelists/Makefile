@@ -108,8 +108,8 @@ kt_b4:
 ## LMT - https://eventhorizontelescope.mywikis.wiki/wiki/LMT_2025_Apr_setup
 
 lm_b1:
-	$(call mk6dir2filelist,mark6-07,12,BHC%0001,LMT_b4.12.filelist)
-	$(call mk6dir2filelist,mark6-07,34,BHC%0003,LMT_b4.34.filelist)
+	$(call mk6dir2filelist,mark6-07,12,SHAO%010,LMT_b4.12.filelist)
+	$(call mk6dir2filelist,mark6-07,34,SHAO%012,LMT_b4.34.filelist)
 
 lm_b4:
 	$(call mk6dir2filelist,mark6-07,12,BHC%0157,LMT_b1.12.filelist)

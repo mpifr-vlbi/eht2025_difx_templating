@@ -33,7 +33,8 @@ class ehtTrackList:
 		self.tracks['c251z'] = ['exper_nominal_start=2025y118d01h00m00s;', 'exper_nominal_stop=2025y118d04h49m50s;']
 		#
 		self.tracks['e25j21'] = ['exper_nominal_start=2025y021d05h14m00s;', 'exper_nominal_stop=2025y021d08h07m00s;']
-		self.tracks['e25c04'] = ['exper_nominal_start=2025y094d03h46m00s;', 'exper_nominal_stop=2025y095d04h29m00s;']
+		#self.tracks['e25c04'] = ['exper_nominal_start=2025y094d03h46m00s;', 'exper_nominal_stop=2025y095d04h29m00s;']
+		self.tracks['e25c04'] = ['exper_nominal_start=2025y094d00h46m00s;', 'exper_nominal_stop=2025y095d04h29m00s;']
 		self.tracks['e25a06'] = ['exper_nominal_start=2025y095d18h39m00s;', 'exper_nominal_stop=2025y096d12h51m00s;']
 		self.tracks['e25f08'] = ['exper_nominal_start=2025y097d22h37m00s;', 'exper_nominal_stop=2025y098d15h38m00s;']
 		#self.tracks['e25e09'] = ['exper_nominal_start=2025y098d18h27m00s;', 'exper_nominal_stop=2025y099d18h41m00s;']

@@ -50,8 +50,8 @@ def Lm;
   clock_early = 2025y094d03h00m00s: 0.0 usec: 2025y094d03h00m00s : +0.376e-12;
 enddef;
 *
+* JCMT a priori rate +4.076e-12, e25c04 +4.236e-12
 def Mm; * JCMT
-  * a priori +4.076e-12, e25c04 +4.236e-12
   clock_early = 2025y094d03h00m00s: 0.0 usec: 2025y094d03h00m00s : +4.076e-12;
 enddef;
 *
@@ -59,10 +59,10 @@ def Mg; * SMT
   clock_early = 2025y094d03h00m00s: 0.0 usec: 2025y094d03h00m00s : -0.100e-12;
 enddef;
 *
+* NOEMA setup - https://eventhorizontelescope.mywikis.wiki/wiki/NOEMA_setup_2025
+* -0.016 s/day  ~= -0.0002e-12
 def Nn; * NOEMA
- * https://eventhorizontelescope.mywikis.wiki/wiki/NOEMA_setup_2025
- * -0.016 s/day  ~= -0.0002e-12
- clock_early = 2025y094d03h00m00s: 0.0 usec: 2025y094d03h00m00s : -0.0002e-12;
+ clock_early = 2025y094d03h00m00s : 12.0 usec : 2025y094d03h00m00s : -0.0002e-12;
 enddef;
 *
 def Pv;

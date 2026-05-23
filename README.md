@@ -12,14 +12,15 @@ $ startdifx --dont-calc *.input
 
 Channel definitions are sorted in numerically increasing order in the DiFX v2d file to keep CASA data reduction happy.
 
+# Notes from MT
+
+Priority track e25c04 to be correlated first.
 
 # Notes on Stations
 
 The SMT 345G receiver is not sideband reparating; LSB folds onto USB (b2+b3, b1+b4).
 
-
 # TODO
-
 
 # Tracks
 
@@ -29,5 +30,4 @@ e25c04  230G  tbd   ...
 e25a06  230G  tbd   ...
 e25f08  345G  tbd   ...
 e25e09  230G  tbd   ...
-...
 ```

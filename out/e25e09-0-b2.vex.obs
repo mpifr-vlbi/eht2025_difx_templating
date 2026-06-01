@@ -386,6 +386,8 @@ def SPT;
      *
      * position for April 2024
      * site_position = todo : todo : todo ;
+     *
+     * April 2025: no SPT observations
      site_position = 0 m : 0 m : 0 m;
      site_velocity =  0.000000   m/yr:  0.000000   m/yr:  0.000000  m/yr;
      site_position_epoch =   54466;

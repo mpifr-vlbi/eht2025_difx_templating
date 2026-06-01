@@ -20,6 +20,8 @@ Priority track e25c04 to be correlated first.
 
 The SMT 345G receiver is not sideband reparating; LSB folds onto USB (b2+b3, b1+b4).
 
+The South Pole (SPT) did not get scheduled and did not observe.
+
 # TODO
 
 # Tracks

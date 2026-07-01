@@ -12,7 +12,7 @@ $EXPER;
 *
 def e25a06;
      exper_name = e25a06;
-     exper_num = 3864; ** to be determined
+     exper_num = 3864;
      exper_description = "ALMA+EHT VLBI April 2025 M87 230 GHz";
      PI_name = "EHTC";
      PI_email = not@an.address;
